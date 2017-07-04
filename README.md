@@ -1,6 +1,6 @@
 # Service example
-todo funciona con django 1.11
-probado en python 2.7
+todo funciona con django 1.11,
+probado en python 2.7,
 el requeriments tiene lo necesario
 
 primero correr 
