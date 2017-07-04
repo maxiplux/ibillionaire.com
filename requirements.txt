@@ -1,0 +1,7 @@
+djangorestframework
+validate_email
+markdown
+django
+gunicorn
+django-cors-headers
+jsonfield
